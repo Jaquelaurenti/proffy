@@ -14,8 +14,7 @@
     <a src="https://github.com/jaquelaurenti/proffy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jaquelaurenti/proffy?color=%238257E5"></img></a>
     <img src="https://img.shields.io/github/stars/jaquelaurenti/proffy?color=8257E5&logo=github"></img>
     <img src="https://img.shields.io/github/last-commit/jaquelaurenti/proffy?color=%238257E5"></img>
-    <a src="https://www.codacy.com/manual/jaquelaurenti/proffy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jaquelaurenti/proffy&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/netlify/b4d3ee80-98f0-42d0-b3d0-13879c811a00?color=%238257E5"></img></a>
-    <!-- <a src="https://jaquelaurenti-proffy.netlify.app"><img src="https://app.codacy.com/project/badge/Grade/b2d32fa731984f3e9c3eaa814861c9db"></img></a> -->
+   
 </div>
 
 
@@ -25,7 +24,7 @@
     * [Requirements](#Requirements)
         * [Web](#Web)
         * [Server](#Server)
-        * ~~Mobile~~
+        * [Mobile](#Mobile)
     * [Running](#Running)
 * [Issues](#Issues-)
     * [Report](#Report)
