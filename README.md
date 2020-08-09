@@ -11,7 +11,6 @@
 
 
 <div align="center">
-    <a src="https://github.com/jaquelaurenti/proffy/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jaquelaurenti/proffy?color=%238257E5"></img></a>
     <img src="https://img.shields.io/github/stars/jaquelaurenti/proffy?color=8257E5&logo=github"></img>
     <img src="https://img.shields.io/github/last-commit/jaquelaurenti/proffy?color=%238257E5"></img>
    
